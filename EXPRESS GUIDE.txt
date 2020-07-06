@@ -1,0 +1,11 @@
+****EXPRESS****
+
+*npm init -y = Crear paquete para express
+
+*npm i express = Instalar express
+
+*npm i -D nodemon = Comando para evitar recargar el DOM en EXPRESS
+
+*npm i uuid = Para generar Random ID
+
+*npm install express-handlebars = Estructura Layout en Express
